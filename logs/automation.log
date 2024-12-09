@@ -1,0 +1,20 @@
+07:57:11.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+07:57:16.343 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+07:57:16.396 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest ******
+07:57:33.835 [main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest ******
+09:42:01.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aalim\eclipse-workspace\OpencartV121\master.xml"
+09:42:08.130 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+09:42:08.391 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+09:42:08.877 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+09:42:08.881 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+09:42:10.587 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+09:42:10.643 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest ******
+09:42:15.415 [main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest ******
+10:24:40.567 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Aalim\eclipse-workspace\OpencartV121\master.xml"
+10:24:45.500 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+10:24:45.836 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+10:24:46.281 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+10:24:46.289 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+10:24:47.565 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+10:24:47.620 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest ******
+10:24:51.478 [main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest ******
